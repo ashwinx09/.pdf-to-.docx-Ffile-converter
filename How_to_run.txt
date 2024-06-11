@@ -1,0 +1,47 @@
+ ~ How to run the .exe file ~
+
+
+NORMAL PATH :
+
+  - Just download the zip file and extract it.
+
+  - Open the extracted file and run the main.py file with and Integrated Development 
+    Enviroment.
+    For example Visual Studio Code etc.
+
+  - You can also run it by opening the extracted folder in the command prompt and type "python     
+    main.py" in it and press enter.
+
+  - Run the File Converter Applicaton and remember the converted .word file will be saved in 
+    desktop automitacally.
+
+
+
+
+ADVANCED METHOD :
+
+  - Open the extracted file in an Integrated development Enviroment and in it's terminal paste 
+    this command "pyinstaller --onefile --noconsole main.py" and it will create a .exe file.
+
+  - You can also do it by opening the extracted folder in the command prompt and type 
+    "pyinstaller --onefile --noconsole main.py and press enter and it will create a .exe file.
+
+  - By doing the above process open the .exe folder and go in side directory name "dist" and    
+    there you will find a main application. 
+
+  - Run it and convert your .pdf files to .word files for free and without internet
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
