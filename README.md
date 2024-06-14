@@ -1,4 +1,4 @@
-# ⭐️ .pdf-to-.docx-Ffile-converter
+# ⭐️ .pdf-to-.docx-file-converter
 
 <img src="https://github.com/ashwinx09/.pdf-to-.docx-Ffile-converter/assets/171764710/85509d34-ec30-4895-80e1-5744cd7fb2c9" alt="Screenshot" width="600">
 
